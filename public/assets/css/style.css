@@ -1,0 +1,17 @@
+.navbar {
+  margin-left: 56px;
+}
+
+.navbar img {
+  width: 70px;
+}
+.sidebar {
+  margin: auto;
+
+}
+.sidebar a {
+  display: block;
+  margin-top: 20px;
+  font-size: 19px;
+}
+
